@@ -11,7 +11,7 @@ Make an analog clock using vanilla javascript.
 - [x] Hour, Minute, Seconds bars align 12'o clock.
 - [x] CSS : Add Background linear-gradient.
 - [x] JS : Get Hour, minute, second function
-- [ ] Js : Control time bars using transform rotate.
+- [x] Js : Control time bars using transform rotate.
 
 # Work Flow
 
@@ -22,4 +22,4 @@ Make an analog clock using vanilla javascript.
 - [x] Hour, Minute, Seconds bars align 12'o clock.
 - [x] CSS : Add Background linear-gradient.
 - [x] JS : Get Hour, minute, second function
-- [ ] Js : Control time bars using transform rotate.
+- [x] Js : Control time bars using transform rotate.
