@@ -7,10 +7,11 @@ function getTime(){
     const hours = nowDate.getHours();
     const minutes = nowDate.getMinutes();
     const seconds = nowDate.getSeconds();
-    
-    const secTransDeg = seconds * 6;
+    console.log(minutes);
+    const minTransDeg = (minutes * 6) + 90;
+    const secTransDeg = (seconds * 6) + 90;
+    minuteBar.style.transform = `rotate(${minTransDeg}deg)`;
     secondBar.style.transform = `rotate(${secTransDeg}deg)`;
-    console.log(secondBar.style.transform);
 }
 
 function init(){
