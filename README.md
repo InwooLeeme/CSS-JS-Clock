@@ -7,10 +7,10 @@ Make an analog clock using vanilla javascript.
 - [x] Html Form.
 - [x] Clock Border Design.
 - [x] Clock Center Design.
-- [ ] Hour, Minute, Seconds bars align center.
-- [ ] Hour, Minute, Seconds bars align 12'o clock.
+- [x] Hour, Minute, Seconds bars align center.
+- [x] Hour, Minute, Seconds bars align 12'o clock.
 - [x] CSS : Add Background linear-gradient.
-- [ ] JS : Get Hour, minute, second function
+- [x] JS : Get Hour, minute, second function
 - [ ] Js : Control time bars using transform rotate.
 
 # Work Flow
@@ -18,8 +18,8 @@ Make an analog clock using vanilla javascript.
 - [x] Html Form.
 - [x] Clock Border Design.
 - [x] Clock Center Design.
-- [ ] Hour, Minute, Seconds bars align center.
-- [ ] Hour, Minute, Seconds bars align 12'o clock.
+- [x] Hour, Minute, Seconds bars align center.
+- [x] Hour, Minute, Seconds bars align 12'o clock.
 - [x] CSS : Add Background linear-gradient.
-- [ ] JS : Get Hour, minute, second function
+- [x] JS : Get Hour, minute, second function
 - [ ] Js : Control time bars using transform rotate.
