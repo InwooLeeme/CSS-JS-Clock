@@ -18,10 +18,20 @@ body {
   border: 1rem solid #ffffff;
 }
 
+.bars {
+  position: relative;
+  top: 50%;
+  width: 50%;
+  height: 0.5rem;
+  background-color: #ffffff;
+  transform-origin: 100%;
+  transform: rotate(90deg);
+}
+
 .clockCenter {
   position: absolute;
-  width: 2rem;
-  height: 2rem;
+  width: 2.5rem;
+  height: 2.5rem;
   background-color: #ffffff;
   border-radius: 100%;
 }
