@@ -17,3 +17,11 @@ body {
   background: rgba(255, 255, 255, 0.4);
   border: 1rem solid #ffffff;
 }
+
+.clockCenter {
+  position: absolute;
+  width: 2rem;
+  height: 2rem;
+  background-color: #ffffff;
+  border-radius: 100%;
+}

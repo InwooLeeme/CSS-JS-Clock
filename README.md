@@ -6,7 +6,7 @@ Make an analog clock using vanilla javascript.
 
 - [x] Html Form.
 - [x] Clock Border Design.
-- [ ] Clock Center Design.
+- [x] Clock Center Design.
 - [ ] Hour, Minute, Seconds bars align center.
 - [ ] Hour, Minute, Seconds bars align 12'o clock.
 - [x] CSS : Add Background linear-gradient.
@@ -17,7 +17,7 @@ Make an analog clock using vanilla javascript.
 
 - [x] Html Form.
 - [x] Clock Border Design.
-- [ ] Clock Center Design.
+- [x] Clock Center Design.
 - [ ] Hour, Minute, Seconds bars align center.
 - [ ] Hour, Minute, Seconds bars align 12'o clock.
 - [x] CSS : Add Background linear-gradient.
