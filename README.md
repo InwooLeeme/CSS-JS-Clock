@@ -4,7 +4,7 @@ Make an analog clock using vanilla javascript.
 
 # To Do
 
-- [ ] Html Form.
+- [x] Html Form.
 - [ ] Clock Border Design.
 - [ ] Clock Center Design.
 - [ ] Hour, Minute, Seconds bars align center.
@@ -15,7 +15,7 @@ Make an analog clock using vanilla javascript.
 
 # Work Flow
 
-- [ ] Html Form.
+- [x] Html Form.
 - [ ] Clock Border Design.
 - [ ] Clock Center Design.
 - [ ] Hour, Minute, Seconds bars align center.
